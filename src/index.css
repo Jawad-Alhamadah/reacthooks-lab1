@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+button{
+  background-color: rgb(139, 139, 139);
+  border:2px solid black;
+   padding-left: 5px;
+   padding-right: 5px;
+
+  
+}
